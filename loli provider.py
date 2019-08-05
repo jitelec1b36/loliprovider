@@ -159,4 +159,4 @@ client.loop.create_task(background_loop_futa())
 client.loop.create_task(background_loop_monster())
 client.loop.create_task(background_loop_lewd())
 
-bot.run('')
+bot.run('NjA3NDc3NDE5MzkzNDE3MjI3.XUgSaA.76ZSsJn3H4MxVTF-FQRB-9JSm3M')
